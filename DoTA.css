@@ -1,5 +1,4 @@
-.home{
-    height: 400vh;
+body{
     background:url('Rectangle\ 8.png') no-repeat;
     background-attachment: fixed;
     background-size: cover;
