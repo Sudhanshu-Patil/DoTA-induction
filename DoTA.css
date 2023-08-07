@@ -21,6 +21,7 @@
     padding-top: 50px;
     text-decoration: none;
     position: fixed;
+    z-index: 1;
 }
 .login a{
     color: #ffff;
